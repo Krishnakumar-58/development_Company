@@ -1,0 +1,48 @@
+.web
+{
+    font-size: 9px;
+    font-weight: bold;
+}
+.text1
+{
+    font-size: 9px;
+}
+.col-sm-5 .circle
+{
+    margin-top: 120px;
+    margin-left: 120px;
+}
+.circle .icon1
+{
+    font-size: 60px;
+    position: relative;
+    color: white;
+    left: 70px;
+}
+.p1
+{
+    display: inline;
+    color: white;
+    text-align: center;
+    justify-content: center;
+}
+.p2
+{
+    color: white;
+    margin-left:30px;
+}
+.p3
+{
+    color: white;
+}
+.p4
+{
+    color: white;
+    margin-left:60px;
+}
+.square
+{
+    background: white;
+    margin: -70px 0px 0px 310px;
+    line-height: 1.2;
+}
